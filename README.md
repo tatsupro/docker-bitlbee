@@ -5,7 +5,7 @@
     - Skype via [skype4pidgin](https://github.com/EionRobb/skype4pidgin)
     - Telegram via [tdlib-purple](https://github.com/ars3niy/tdlib-purple)
     - Facebook (MQTT) via [bitlbee-facebook](https://github.com/bitlbee/bitlbee-facebook)
-    - Google Hangouts via [purple-hangouts](https://github.com/EionRobb/purple-hangouts)
+    - Google Hangouts via [purple-googlechat](https://github.com/EionRobb/purple-googlechat)
     - Mastodon via [bitlbee-mastodon](https://alexschroeder.ch/software/Bitlbee_Mastodon)
     - Rocket.Chat via [purple-rocketchat](https://github.com/EionRobb/purple-rocketchat)
     - Discord via [bitlbee-discord](https://github.com/sm00th/bitlbee-discord/)
